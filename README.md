@@ -11,5 +11,3 @@ Los intregantes son:
 * Hans Manuel Grenner Noguerón
 * Yuan Tian
 
-
-123
